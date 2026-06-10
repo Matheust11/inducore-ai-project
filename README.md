@@ -10,5 +10,5 @@ O **InduCore AI** é um sistema inteligente focado em manutenção preditiva e o
 - Geração de relatórios gerenciais e logs de auditoria.
 
 ## Disciplina
-Projeto desenvolvido por Matheus Almeida como requisito avaliativo para a disciplina Informática Industrial da UFCG.
+Projeto desenvolvido por Matheus Almeida como requisito avaliativo para a disciplina de Informática Industrial da UFCG.
 Professor: Danilo Santos.
